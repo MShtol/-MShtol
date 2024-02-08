@@ -5,4 +5,5 @@
 [![Gmail Badge](https://img.shields.io/badge/-mikha.shtol-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mikha.shtol@gmail.com)](mailto:mikha.shtol@gmail.com) 
 [![Twitter](https://img.shields.io/badge/Twitter--brightgreen?style=social&logo=Twitter)](https://twitter.com/MShtol)
 
-
+[Bioinformatics Institute](https://bioinf.me/en), Bioinformatics for Biologists </br>
+[Lomonosov MSU](https://www.msu.ru/en/), BSc and MSc in Biology </br>
